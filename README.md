@@ -1,61 +1,30 @@
-# Artist-ho-collaboration-platform
-Artist Ho is a web-based artist collaboration platform that connects creative professionals with companies for networking, collaboration, and project opportunities.
-## 🌟 Features
+# Artist Ho website
 
-- 👤 User Authentication (Artists & Companies)
-- 🎨 Artist Profile Creation & Portfolio Showcase
-- 🔍 Talent Search & Discovery
-- 🤝 Collaboration & Project Opportunities
-- ⭐ Review & Rating System
-- 📩 Communication between users
+*Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
----
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ayushsingh9771-gmailcoms-projects/v0-artist-ho-website)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/N6LKCZnIWUG)
 
-## 🎯 Objective
+## Overview
 
-The main objective of Artist Ho is to bridge the gap between talented artists and organizations by providing a centralized platform where creativity meets opportunity.
+This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
----
+## Deployment
 
-## 🛠️ Tech Stack
+Your project is live at:
 
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+**[https://vercel.com/ayushsingh9771-gmailcoms-projects/v0-artist-ho-website](https://vercel.com/ayushsingh9771-gmailcoms-projects/v0-artist-ho-website)**
 
----
+## Build your app
 
-## 🧩 Modules
+Continue building your app on:
 
-- User Management (Artists & Companies)
-- Authentication & Authorization
-- Profile & Portfolio Management
-- Collaboration System
-- Feedback & Rating System
+**[https://v0.dev/chat/projects/N6LKCZnIWUG](https://v0.dev/chat/projects/N6LKCZnIWUG)**
 
----
+## How It Works
 
-## 📊 System Overview
-
-Artist Ho simplifies the process of finding and collaborating with creative professionals. Artists can showcase their work, while companies can explore talent and hire based on their requirements.
-
----
-
-## 🚧 Future Scope
-
-- AI-based talent recommendations  
-- Real-time chat system  
-- Mobile application version  
-- Payment integration for hiring  
-
----
-
-## 📌 Conclusion
-
-Artist Ho aims to empower artists by providing them with visibility and opportunities, while helping companies discover the right talent efficiently.
-
----
-
-## 👨‍💻 Author
-
-Ayush Kumar Singh
+1. Create and modify your project using [v0.dev](https://v0.dev)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
